@@ -1,5 +1,7 @@
 # Robust Collaborative Learning with Linear Gradient Overhead
 
+Code for ICML2023 paper.
+
 ### Software dependencies
 
 Python 3.7.3 has been used to run our scripts.
